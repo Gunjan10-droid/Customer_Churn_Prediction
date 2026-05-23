@@ -32,6 +32,3 @@ pandas, numpy, matplotlib, seaborn
 sklearn
 ```
 
-## 🗂️ Files
-- `Customer_Churn_Prediction.ipynb` — Main notebook
-- `submission.csv` — Kaggle submission file
